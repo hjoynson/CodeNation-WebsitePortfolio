@@ -1,0 +1,95 @@
+html{
+    line-height: 1.1;
+    font-size: 16px;
+    color: blanchedalmond;
+    font-family: "Tusker Grotesk",sans-serif;
+    border-color: black;
+    background-color: white;
+}
+h1     {
+        font-size: 50px;
+        display: block;
+        margin-left: center;
+        margin-right: center;
+        width: 50%;
+        width: auto;
+        padding: 0px;
+        margin: 0px;
+        background-color: white;
+        color: rgba(15, 2, 26, 0.789);
+        border: 15px solid blanchedalmond;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    margin: 20px;
+    background-color: none;
+        
+      }
+
+      h5 {
+        text-align: center;
+        color: rgba(15, 2, 26, 0.789);
+        font-size: 50px;
+        display: block;
+        margin-left: center;
+        margin-right: center;
+        width: 50%;
+        width: auto;
+        border: 5px solid blanchedalmond;
+        padding: 5px;
+        margin: 10px;
+        background-color: white;
+    }
+
+    .info{
+        display: block;
+        text-align: center;
+        margin: 10px;
+        width: auto;
+        padding: #FFFFFF;
+        border: #FFFFFF;
+        font-size: 100%;
+        font: inherit;
+        font-weight: bold;
+        
+       
+        
+    }
+
+    body {
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        -webkit-font-smoothing: antialiased;
+    
+    }
+    *{
+
+        text-rendering: optimizeLegibility;
+
+    }
+
+    element.style {
+        clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    }
+    body #main-wrap[class*=loaded] [class*=page-header] [class*=main-bg] [class*=plane] {
+        transition: .4s ease all;
+        
+    }
+    [class*=page-header] [class*=main-bg] [class*=plane] {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        
+    }
+
+    
+
+   
